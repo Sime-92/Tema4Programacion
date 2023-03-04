@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b03882a-c9af-4b05-9e1d-08210b2784e1" name="Changes" comment="subo pprimer ejercicio, en los apuntes pone una cosa y en la tarea otra, por lo que opto por hacer lo que pone en la tarea">
+    <list default="true" id="5b03882a-c9af-4b05-9e1d-08210b2784e1" name="Changes" comment="Subo Exercise6">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema4.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Aprendiendo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Ejercicio4_10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Ejercicio4_10b.java" afterDir="false" />
@@ -18,9 +15,8 @@
       <change afterPath="$PROJECT_DIR$/src/Ejercicio4_9.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Ejercicio5_2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Ejercicio5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/FuncionesSobrecargadas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tema5Tablas" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ejercicio3_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -61,14 +57,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise6">
-    <configuration name="Aprendiendo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aprendiendo" />
-      <module name="Tema4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercise7">
     <configuration name="Ejercicio5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio5_2" />
       <module name="Tema4" />
@@ -90,6 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise7" />
+      <module name="Tema4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ejercicio3_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio3_5" />
       <module name="Tema4" />
@@ -99,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise6" />
         <item itemvalue="Application.Ejercicio5_3" />
         <item itemvalue="Application.Ejercicio5_2" />
         <item itemvalue="Application.ejercicio3_5" />
-        <item itemvalue="Application.Aprendiendo" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677868741928</updated>
       <workItem from="1677868743046" duration="7087000" />
-      <workItem from="1677944955236" duration="3827000" />
+      <workItem from="1677944955236" duration="5759000" />
     </task>
     <task id="LOCAL-00001" summary="subo pprimer ejercicio, en los apuntes pone una cosa y en la tarea otra, por lo que opto por hacer lo que pone en la tarea">
       <created>1677875749897</created>
@@ -125,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677875749897</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Subo Exercise6">
+      <created>1677949083183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677949083183</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +147,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="subo pprimer ejercicio, en los apuntes pone una cosa y en la tarea otra, por lo que opto por hacer lo que pone en la tarea" />
-    <option name="LAST_COMMIT_MESSAGE" value="subo pprimer ejercicio, en los apuntes pone una cosa y en la tarea otra, por lo que opto por hacer lo que pone en la tarea" />
+    <MESSAGE value="Subo Exercise6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subo Exercise6" />
   </component>
 </project>
